@@ -1,0 +1,18 @@
+<!doctype html>
+<title>Python Flask File Upload Example</title>
+<h2>Select xml file to parse into a txt file</h2>
+
+<html>
+   <body>
+     <form method="post" action="/parse_xml" enctype="multipart/form-data">
+       <dl>
+		   <p>
+			  <input type="file" name="file" autocomplete="off" required>
+		   </p>
+       </dl>
+      <p>
+      <input type="submit" value="Submit">
+      </p>
+     </form>
+   </body>
+</html>
