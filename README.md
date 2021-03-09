@@ -43,6 +43,9 @@ This flask application in python interacts with the user to upload and image and
 0 0.7639802631578947 0.16776315789473684 0.07401315789473684 0.16447368421052633
 ```
 
+### Plot example of the image and its corresponding txt file with the patches
+![plot](img_files/plot_png_example.png)
+
 ## Prerequisites
 
 For the execution of the Container, **Docker** is required.    
