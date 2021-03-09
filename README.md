@@ -48,6 +48,15 @@ This flask application in python that interacts with the user to upload and imag
 For the execution of the Container, **Docker** is required.    
 It could be downloaded from https://www.docker.com/products/docker-desktop
 
+[Project_DockerHub](https://hub.docker.com/r/josemoscoso/cloud_computing_2nd_project/tags?page=1&ordering=last_updated)
+```josemoscoso/cloud_computing_2nd_project```
+
+-Pull docker image
+```docker pull josemoscoso/cloud_computing_2nd_project:latest```
+
+-Run docker image
+```docker run -p 8080:8085 josemoscoso/cloud_computing_2nd_project```
+
 ## Guide to use the container
 
 * The application  operates on port 8080.      
