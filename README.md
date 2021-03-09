@@ -44,7 +44,7 @@ This flask application in python interacts with the user to upload and image and
 ```
 
 ### Plot example of the image and its corresponding txt file with the patches
-![plot](img_path/plot_png_example.png)
+![plot](img_files/plot_png_example.png)
 
 ## Prerequisites
 
