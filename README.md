@@ -2,7 +2,7 @@
 This project is an implementation of a containerized web-based application (flask framework) based on the guidelines of the Cloud computing at scale class @ Duke University.
 
 ## Overview
-This flask application in python that interacts with the user to upload and image and its corresponding annotation files in xml format. Then, parse this xml file into a txt format. Finally, the output plots the input image with the corresponding patches included in the txt file.
+This flask application in python interacts with the user to upload and image and its corresponding annotation file in a xml format. Then, parse this xml file into a txt format file. Finally, output a plot of the input image with its corresponding patches included in the txt file.
 
 ### Example of an xml file
 
