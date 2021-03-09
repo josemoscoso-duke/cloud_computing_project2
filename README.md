@@ -36,15 +36,12 @@ This flask application in python that interacts with the user to upload and imag
 </annotation>
 ```
 
-### Example of the parsed xml file into a txt file (label, x, y, width, height)
-### scaled according to the input image size in pixels
+### Example of the parsed xml file into a txt file (label, x, y, width, height) scaled according to the input image size in pixels
 
 ```
 0 0.4128289473684211 0.4917763157894737 0.0756578947368421 0.15789473684210525
 0 0.7639802631578947 0.16776315789473684 0.07401315789473684 0.16447368421052633
 ```
-
-For the purpose of continuous delivery, Cloud Build on Google Cloud Platform (GCP) is used. The deployment is triggered whenever a push is made on the repository.
 
 ## Prerequisites
 
