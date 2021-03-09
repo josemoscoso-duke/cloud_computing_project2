@@ -55,11 +55,11 @@ It could be downloaded from https://www.docker.com/products/docker-desktop
 
 * The application  operates on port 8080.      
 * To upload the image file (jpeg, jpg or png) and the xml file open:
-localhost:8080/
+```localhost:8080/```
 * To parse the xml file into the txt file use:
-localhost:8080/parse_xml
+```localhost:8080/parse_xml```
 * To plot the input image file into the txt file use:
-localhost:8080/plot_png
+```localhost:8080/plot_png```
 
 ## Links to documentation
 
